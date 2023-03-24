@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\bin\Debug\net7.0\Task_1.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\bin\Debug\net7.0\Task_1.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\bin\Debug\net7.0\Task_1.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\bin\Debug\net7.0\Task_1.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_1\obj\Debug\net7.0\ref\Task_1.dll
