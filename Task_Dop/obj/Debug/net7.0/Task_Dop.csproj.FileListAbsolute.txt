@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\bin\Debug\net7.0\Task_Dop.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\bin\Debug\net7.0\Task_Dop.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\bin\Debug\net7.0\Task_Dop.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\bin\Debug\net7.0\Task_Dop.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\bin\Debug\net7.0\Task_Dop.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\refint\Task_Dop.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\Task_Dop.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_Dop\obj\Debug\net7.0\ref\Task_Dop.dll

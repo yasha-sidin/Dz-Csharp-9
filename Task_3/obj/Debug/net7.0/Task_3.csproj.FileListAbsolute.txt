@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\bin\Debug\net7.0\Task_3.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\bin\Debug\net7.0\Task_3.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\bin\Debug\net7.0\Task_3.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\bin\Debug\net7.0\Task_3.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\bin\Debug\net7.0\Task_3.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\refint\Task_3.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\Task_3.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Начальный блок\Дз Geek Brains\Знакомство с зыками программирования\Дз_Семинар9\Task_3\obj\Debug\net7.0\ref\Task_3.dll

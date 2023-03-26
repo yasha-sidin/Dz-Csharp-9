@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_2\\Task_2.csproj",
+      "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_2\\Task_2.csproj",
       "projectName": "Task_2",
-      "projectPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_2\\Task_2.csproj",
+      "projectPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_2\\Task_2.csproj",
       "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_2\\obj\\",
+      "outputPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config"

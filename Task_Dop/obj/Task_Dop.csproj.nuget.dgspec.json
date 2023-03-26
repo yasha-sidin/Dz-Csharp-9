@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj": {}
+    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj": {
+    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj",
+        "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj",
         "projectName": "Task_Dop",
-        "projectPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj",
+        "projectPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\Task_Dop.csproj",
         "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\obj\\",
+        "outputPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_Dop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config"

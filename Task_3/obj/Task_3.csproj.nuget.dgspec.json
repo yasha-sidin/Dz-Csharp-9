@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj": {}
+    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj": {
+    "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj",
+        "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj",
         "projectName": "Task_3",
-        "projectPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj",
+        "projectPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\Task_3.csproj",
         "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\obj\\",
+        "outputPath": "C:\\Users\\yasha\\OneDrive\\Рабочий стол\\GB\\Начальный блок\\Дз Geek Brains\\Знакомство с зыками программирования\\Дз_Семинар9\\Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config"
